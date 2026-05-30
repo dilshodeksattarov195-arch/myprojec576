@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfecrypt",
+        "uuid": 3062592,
+        "checksum": "hvxrsr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
